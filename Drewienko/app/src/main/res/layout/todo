@@ -3,6 +3,5 @@ Layout Todos:
         -create and use button style
         -create strings for many languages, default values will be english
     acticity_login_screen:
-        -add login/passowrd text and edittext (after creating styles)
         -add android:background="" in main RelativeLayout/Parent
         -add action font dimension and use it in eg. Login text
